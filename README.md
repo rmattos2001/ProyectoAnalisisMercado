@@ -1,4 +1,4 @@
-# ProyectoAnalisisMercado
+# Proyecto Analisis Mercado E-Commerce
 Proyecto de Analisis de Mercado que genera cuadros y metricas estadisticas acompañados de algunos indicadores de Gestion; 
 informacion de mucha relevancia para las empresas comerciales de ventas y distribucion de productos mediante canales ECommerce.
 
